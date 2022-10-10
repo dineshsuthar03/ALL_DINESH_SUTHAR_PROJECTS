@@ -1,8 +1,8 @@
-## 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
+## All 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 
-*500 AI Machine learning Deep learning Computer vision NLP Projects with code*
+<!-- *500 AI Machine learning Deep learning Computer vision NLP Projects with code*
 
-
+ -->
 Follow me on LinkedIn : https://www.linkedin.com/in/dinesh-suthar-17493290/
 
 ***This list is continuously updated.*** - You can take pull request and contribute. All Links are tested and working fine. Please ping if any link doesn't work.
